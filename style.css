@@ -117,3 +117,7 @@ font-weight: 700;
     display: flex;
     margin-top: 20px;
 }
+footer{
+    display: flex;
+    background: #FFF8F3;
+}
