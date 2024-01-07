@@ -120,4 +120,20 @@ font-weight: 700;
 footer{
     display: flex;
     background: #FFF8F3;
+    margin-top: 60px;
+    padding: 100px 100px;
+}
+.footer-column{
+    
+    gap: 100px;
+}
+.contact input, textarea{
+display: block;
+margin-bottom: 20px;
+padding: 15px 20px;
+color: rgb(140, 177, 53);
+border-radius: 5px;
+border: 0;
+
+
 }
