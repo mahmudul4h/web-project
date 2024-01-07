@@ -67,3 +67,18 @@ div{
 display: inline;
 
 }
+.about{
+    padding: 1120px;
+    border-radius: 50px;
+    background-color: none;
+    margin: 100 100;
+}
+.main{
+    width: 1140px;
+    margin: 0 auto;
+
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
